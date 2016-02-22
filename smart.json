@@ -1,0 +1,8 @@
+{
+	"name": "accounts-meld-client-materializecss",
+	"description": "Client Side templates styled for Materializecss to be used with the Meteor package accounts-meld.",
+	"homepage": "https://github.com/sun2rise/meteor-accounts-meld-client-templates-materializecss",
+	"author": "Alessandro Filippo Annini (https://github.com/sun2rise)",
+	"version": "1.0.0",
+	"git": "https://github.com/sun2rise/meteor-accounts-meld-client-templates-materializecss.git"
+}
